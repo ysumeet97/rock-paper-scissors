@@ -1,0 +1,8 @@
+{
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js",
+  "/game": "pages/game.js",
+  "/api/getGameResult": "pages/api/getGameResult.js",
+  "/api/getRandomPlay": "pages/api/getRandomPlay.js"
+}
